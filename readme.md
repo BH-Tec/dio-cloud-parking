@@ -36,8 +36,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Demonstrando outras formas de iniciar nosso projeto. Subindo a aplicação para GitHub.
 - [x] Hospedando aplicação no Heroku. Adicionando o System Properties.
 - [x] Apresentando os conceitos REST e Verbos HTTP. Criando o primeiro endpoint de cadastro.
-- [ ] Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro.
-- [ ] Modelando a conversão das Lista e aplicando o o ResponseEntity.
+- [x] Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro.
+- [x] Modelando a conversão das Lista e aplicando o o ResponseEntity.
 - [ ] Criando o método findById() e implementando o @PostMapping.
 - [ ] Documentando a API com Swagger utilizando o Spring Fox.
 - [ ] Configurando as exceções da aplicação e fazendo o tratamento no controller.
