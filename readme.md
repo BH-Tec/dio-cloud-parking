@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="https://cloud-parking-brunoh.herokuapp.com/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
@@ -34,7 +35,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Apresentando a estrutura do pom.xml e as dependências do projeto.
 - [x] Demonstrando outras formas de iniciar nosso projeto. Subindo a aplicação para GitHub.
 - [x] Hospedando aplicação no Heroku. Adicionando o System Properties.
-- [ ] Apresentando os conceitos REST e Verbos HTTP. Criando o primeiro endpoint de cadastro.
+- [x] Apresentando os conceitos REST e Verbos HTTP. Criando o primeiro endpoint de cadastro.
 - [ ] Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro.
 - [ ] Modelando a conversão das Lista e aplicando o o ResponseEntity.
 - [ ] Criando o método findById() e implementando o @PostMapping.
