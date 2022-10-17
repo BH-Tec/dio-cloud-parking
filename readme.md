@@ -32,8 +32,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - [x] Apresentação dos objetivos e requisitos do projeto. Introdução aos conceitos do Spring Boot. Gerando nossa aplicação com o Spring Initializr.
 - [x] Apresentando a estrutura do pom.xml e as dependências do projeto.
-- [ ] Demonstrando outras formas de iniciar nosso projeto. Subindo a aplicação para GitHub.
-- [ ] Hospedando aplicação no Heroku. Adicionando o System Properties.
+- [x] Demonstrando outras formas de iniciar nosso projeto. Subindo a aplicação para GitHub.
+- [x] Hospedando aplicação no Heroku. Adicionando o System Properties.
 - [ ] Apresentando os conceitos REST e Verbos HTTP. Criando o primeiro endpoint de cadastro.
 - [ ] Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro.
 - [ ] Modelando a conversão das Lista e aplicando o o ResponseEntity.
