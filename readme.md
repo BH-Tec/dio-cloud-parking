@@ -41,7 +41,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Criando o método findById() e implementando o @PostMapping.
 - [x] Documentando a API com Swagger utilizando o Spring Fox.
 - [x] Configurando as exceções da aplicação e fazendo o tratamento no controller.
-- [ ] Construindo os métodos UPDATE e DELETE.
+- [x] Construindo os métodos UPDATE e DELETE.
 - [ ] Realizando os testes da API e configurando as portas da aplicação.
 - [ ] Implementando os testes do findAll().
 - [ ] Revisando a API e iniciando o conceito de Persistência.
