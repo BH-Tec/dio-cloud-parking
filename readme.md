@@ -39,7 +39,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro.
 - [x] Modelando a conversão das Lista e aplicando o o ResponseEntity.
 - [x] Criando o método findById() e implementando o @PostMapping.
-- [ ] Documentando a API com Swagger utilizando o Spring Fox.
+- [x] Documentando a API com Swagger utilizando o Spring Fox.
 - [ ] Configurando as exceções da aplicação e fazendo o tratamento no controller.
 - [ ] Construindo os métodos UPDATE e DELETE.
 - [ ] Realizando os testes da API e configurando as portas da aplicação.
