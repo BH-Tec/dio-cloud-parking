@@ -59,4 +59,12 @@ public class ParkingService {
 
         return parking;
     }
+
+    public Parking exit(String id) {
+        // recuperar o id
+        // atualizar data de saida
+        // calcular o valor
+        findById(id);
+        return null;
+    }
 }

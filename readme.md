@@ -22,6 +22,7 @@ Projeto do curso "Realizando Deploy na Nuvem de um Conjunto de API’s Desenvolv
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java
+- [Swagger](https://cloud-parking-brunoh.herokuapp.com/swagger-ui/index.html)
 
 ## 📝 License
 
@@ -42,7 +43,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Documentando a API com Swagger utilizando o Spring Fox.
 - [x] Configurando as exceções da aplicação e fazendo o tratamento no controller.
 - [x] Construindo os métodos UPDATE e DELETE.
-- [ ] Realizando os testes da API e configurando as portas da aplicação.
+- [x] Realizando os testes da API e configurando as portas da aplicação.
 - [ ] Implementando os testes do findAll().
 - [ ] Revisando a API e iniciando o conceito de Persistência.
 - [ ] Trabalhando com JPA. Configurando o Banco de dados e criando um container.
