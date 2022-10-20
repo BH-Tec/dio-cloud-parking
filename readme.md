@@ -21,8 +21,12 @@ Projeto do curso "Realizando Deploy na Nuvem de um Conjunto de API’s Desenvolv
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Java
-- [Swagger](https://cloud-parking-brunoh.herokuapp.com/swagger-ui/index.html)
+<p align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=whit">
+    <a href="https://cloud-parking-brunoh.herokuapp.com"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+    <a href="https://cloud-parking-brunoh.herokuapp.com/swagger-ui/index.html"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
 ## 📝 License
 
@@ -45,7 +49,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Construindo os métodos UPDATE e DELETE.
 - [x] Realizando os testes da API e configurando as portas da aplicação.
 - [x] Implementando os testes do findAll().
-- [ ] Revisando a API e iniciando o conceito de Persistência.
+- [x] Revisando a API e iniciando o conceito de Persistência.
 - [ ] Trabalhando com JPA. Configurando o Banco de dados e criando um container.
 - [ ] Realizando alterações no Service e criando a interface Repository.
 - [ ] Implementando algoritmos da regra de negócio. Realizando o cálculo de dias e horas.
