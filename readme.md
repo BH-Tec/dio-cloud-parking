@@ -48,8 +48,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Configurando as exceções da aplicação e fazendo o tratamento no controller.
 - [x] Construindo os métodos UPDATE e DELETE.
 - [x] Realizando os testes da API e configurando as portas da aplicação.
-- [x] Implementando os testes do findAll().
-- [x] Revisando a API e iniciando o conceito de Persistência.
+- [ ] Implementando os testes do findAll().
+- [ ] Revisando a API e iniciando o conceito de Persistência.
 - [ ] Trabalhando com JPA. Configurando o Banco de dados e criando um container.
 - [ ] Realizando alterações no Service e criando a interface Repository.
 - [ ] Implementando algoritmos da regra de negócio. Realizando o cálculo de dias e horas.
